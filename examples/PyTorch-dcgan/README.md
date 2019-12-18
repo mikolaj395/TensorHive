@@ -1,6 +1,6 @@
 # PyTorch - DCGAN
 
-This example is based on [this implementation] (https://github.com/pytorch/examples/tree/master/dcgan)_
+This example is based on [this implementation](https://github.com/pytorch/examples/tree/master/dcgan)_
 
 
 ## Downloading the dataset
